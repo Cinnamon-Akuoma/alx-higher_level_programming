@@ -1,1 +1,1 @@
-Best School
+This is PYTHON.
